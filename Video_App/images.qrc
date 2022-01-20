@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Icons/icons8-about-50.png</file>
+        <file>Icons/icons8-circle-32 (1).png</file>
+        <file>Icons/icons8-circle-32 (2).png</file>
+        <file>Icons/icons8-circle-32.png</file>
+        <file>Icons/icons8-fast-forward-round-24.png</file>
+        <file>Icons/icons8-files-50.png</file>
+        <file>Icons/icons8-help-24.png</file>
+        <file>Icons/icons8-rewind-button-round-24.png</file>
+    </qresource>
+</RCC>
